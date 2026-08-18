@@ -1,0 +1,6 @@
+segment,users,avg_recency_days,avg_frequency,avg_monetary_inr,total_gtv_inr,pct_of_activated_users,pct_of_total_gtv
+Power Users,8345,1.7,37.9,20712.0,172841592.8,34.5,74.0
+Dormant / Churned,5054,76.7,2.6,1415.8,7155489.4,20.9,3.1
+Casual / New,4833,12.9,3.0,1621.9,7838768.9,20.0,3.4
+"At-Risk (was frequent, going quiet)",3278,28.0,21.3,11611.5,38062333.8,13.5,16.3
+Regular Users,2712,2.2,5.8,2850.3,7730079.6,11.2,3.3

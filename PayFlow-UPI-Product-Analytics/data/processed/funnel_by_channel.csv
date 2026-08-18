@@ -1,0 +1,5 @@
+acquisition_channel,signup_started,otp_verified,bank_linked,upi_pin_set,kyc_completed,first_txn_attempted,first_txn_success
+organic,100.0,91.68,77.91,72.49,56.5,49.83,47.36
+paid_ads,100.0,87.22,69.46,60.94,44.33,36.68,33.16
+partner_bank,100.0,97.87,88.83,87.88,73.72,69.17,68.43
+referral,100.0,95.0,83.72,80.57,65.22,59.66,58.47

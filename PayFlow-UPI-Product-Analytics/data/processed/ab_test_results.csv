@@ -1,0 +1,2 @@
+control_n,control_conversions,control_rate_pct,treatment_n,treatment_conversions,treatment_rate_pct,absolute_lift_pp,relative_lift_pct,z_statistic,p_value,ci_95_low_pp,ci_95_high_pp,significant_at_0.05
+5095,2089,41.0,5005,2417,48.29,7.29,17.8,7.37,0.0,5.36,9.22,True

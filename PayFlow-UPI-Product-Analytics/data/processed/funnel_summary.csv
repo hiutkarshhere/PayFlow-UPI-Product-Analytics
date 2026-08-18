@@ -1,0 +1,8 @@
+stage,users_reached,pct_of_total,step_conversion_pct
+Signup Started,50500,100.0,100.0
+OTP Verified,46725,92.52,92.52
+Bank Account Linked,40033,79.27,85.68
+UPI PIN Set,37602,74.46,93.93
+KYC Completed,29680,58.77,78.93
+First Txn Attempted,26511,52.5,89.32
+First Txn Success (Activated),25446,50.39,95.98
