@@ -1,7 +1,6 @@
 # PayFlow — UPI Payments Product Analytics
 
-**Project 2 of 5 in a Product Analyst portfolio.** End-to-end product
-analytics on a simulated Indian UPI payments app: onboarding funnel,
+End-to-end product analytics on a simulated Indian UPI payments app: onboarding funnel,
 monthly cohort retention, RFM-based user segmentation, and an A/B test —
 built the way a Product Analyst at a company like PhonePe, Razorpay, or
 Paytm would actually structure the work, not as a generic dashboard.
